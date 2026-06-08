@@ -7,62 +7,47 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Profile
 
-Systems and Software Developer with experience in Python, C, Linux, embedded platforms, system programming, and cybersecurity concepts. Interested in reverse engineering, malware analysis, low-level tools, and embedded development. Background also includes public relations, technical support, and administrative communication.
+Systems and Software Developer with experience in Python, C, Linux, embedded platforms, system programming, and cybersecurity concepts.
+
+Interested in reverse engineering, malware analysis, low-level tools, embedded systems, and networking technologies.
 
 ## Education
 
 **Associate Degree in Spanish Language**  
-Allameh Tabataba'i University  
-Ranked approximately top 300 in the national language entrance examination
+Allameh Tabataba'i University
+
+- Ranked approximately top 300 in the national language entrance examination
 
 ## Work Experience
 
 ### Public Relations Specialist (2022–2023)
-**Nourd Nirouye Jonoub / Rural Cooperative Organization of Mazandaran Province**
-
-Responsibilities:
+**Nourd Nirouye Jonoub**
 
 - Public relations activities
-- Managing organizational portal/website
-- Preparing reports and meeting documentation
+- Managing organizational website
 - Administrative correspondence
+- Reporting and documentation
 
 ### Public Relations Specialist (2021–2022)
-**Arian Service Zhav / Rural Cooperative Organization of Mazandaran Province**
-
-Responsibilities:
+**Arian Service Zhav**
 
 - Administrative correspondence
-- Creating reports in Excel, Word and PowerPoint
-- Public communications support
+- Excel and PowerPoint reporting
+- Public communication support
 
 ### Government Communication Support Specialist (2024)
-**Governor General Office of Mazandaran**
 
-Responsibilities:
-
-- Processing public correspondence
-- Citizen support and communication
-- Technical assistance for users
+- Processing correspondence
+- Technical support
+- Citizen communication
 
 ### Programmer (2019–2020)
 **Hooshmandkaran Asr**
 
-Responsibilities:
-
 - Website development
 - Front-end implementation
-
-### Motion Graphics Designer (2019)
-**Hynext**
-
-Responsibilities:
-
-- Creating motion graphics and digital media content
 
 ## Skills
 
@@ -76,16 +61,14 @@ Responsibilities:
 ### Systems & Security
 - Linux
 - Kali Linux
-- OWASP
-- Wireshark
 - Docker
 - Git
+- Wireshark
+- OWASP
 - LPIC
-- Network Monitoring
 
 ### Networking
 - CCNA
-- Cisco Security
 - Policy Based Routing
 - TCP/IP
 
@@ -94,40 +77,31 @@ Responsibilities:
 - Hidden Markov Models
 - Data Analysis
 
-### Other
-- Microsoft Office
-- Technical Support
-- Public Relations
-
 ## Projects
 
 ### Raw Disk File Carver
-Python-based signature recovery tool for JPEG, PNG, PDF and other formats using low-level binary processing and direct disk scanning.
+Signature-based file recovery and binary disk scanning tool.
 
 ### Mini Malware Sandbox
-C-based isolated environment for executable behavior analysis and system call monitoring.
+Lightweight executable behavior analysis environment.
 
 ### Markov Chain Text Generator
-Probabilistic text generation model with preprocessing pipeline.
+Probabilistic text generation project.
 
-### Dragon Repeller RPG
-JavaScript browser-based RPG game with state management.
-
-### Todo Application
-Responsive web application with CRUD functionality and Local Storage support.
+### ESP32 IoT Sensor System
+ESP32 MQTT and FreeRTOS sensor platform.
 
 ## Certificates
 
-- Python Programming — Technical and Vocational Organization
+- Python Programming
 - CCNA Security
-- IS Foundations — Hack The Box
-- Investment Banking Job Simulation — Forage
+- IS Foundations (HTB)
 - ICDL
 - Teacher Training Course (TTC)
 
 ## Languages
 
-- Persian — Native
+- Persian (Native)
 - English
 - German
 - Spanish
@@ -136,8 +110,7 @@ Responsive web application with CRUD functionality and Local Storage support.
 
 - GitHub: https://github.com/Farnaz-Baghban
 - LinkedIn: https://www.linkedin.com/in/farnaz-baghban-19b618193
-- Portfolio: https://farnaz-baghban.github.io
-
+- Website: https://farnaz-baghban.github.io
 - GitHub: https://github.com/Farnaz-Baghban
 - LinkedIn: https://www.linkedin.com/in/farnaz-baghban-19b618193
-- Portfolio: https://farnaz-baghban.github.io
+- Website: https://farnaz-baghban.github.io
