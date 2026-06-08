@@ -1,64 +1,105 @@
----
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
----
+
+/resume
 
 {% include base_path %}
 
+Profile
+
+Systems and Software Developer with experience in Python, C, Linux, embedded platforms, system programming, and cybersecurity concepts. Interested in reverse engineering, malware analysis, low-level tools, and embedded development. Background also includes public relations, technical support, and administrative communication.
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Associate Degree in Spanish Language
+Allameh Tabataba'i University
+Ranked approximately top 300 in the national language entrance examination
+Work Experience
+2022–2023: Public Relations Specialist
+Nourd Nirouye Jonoub / Rural Cooperative Organization of Mazandaran Province
+Responsibilities:
+Public relations activities
+Managing organizational portal/website
+Preparing reports and meeting documentation
+Administrative correspondence
+2021–2022: Public Relations Specialist
+Arian Service Zhav / Rural Cooperative Organization of Mazandaran Province
+Responsibilities:
+Administrative correspondence
+Creating reports in Excel, Word and PowerPoint
+Public communications support
+2024: Government Communication Support Specialist
+Governor General Office of Mazandaran
+Responsibilities:
+Processing public correspondence
+Citizen support and communication
+Technical assistance for users
+2019–2020: Programmer
+Hooshmandkaran Asr
+Responsibilities:
+Website development
+Front-end implementation
+2019: Motion Graphics Designer
+Hynext
+Responsibilities:
+Creating motion graphics and digital media content
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Programming
+Python
+C
+JavaScript
+SQL
+Django
+Systems & Security
+Linux
+Kali Linux
+OWASP
+Wireshark
+Docker
+Git
+LPIC
+Network Monitoring
+Networking
+CCNA
+Cisco Security
+Policy Based Routing
+TCP/IP
+Data & AI
+NLP
+Hidden Markov Models
+Data Analysis
+Other
+Microsoft Office
+Technical Support
+Public Relations
+Projects
+Raw Disk File Carver
+Python-based signature recovery tool for JPEG, PNG, PDF and other formats
+Low-level binary data processing and direct disk scanning
+Mini Malware Sandbox
+C-based isolated environment for executable behavior analysis
+System call and process monitoring
+Markov Chain Text Generator
+Probabilistic text generation model with preprocessing pipeline
+Dragon Repeller RPG
+JavaScript browser-based RPG game with state management
+Todo Application
+Responsive web application with CRUD functionality and Local Storage support
+Certificates
+Python Programming — Technical and Vocational Organization
+CCNA Security
+IS Foundations — Hack The Box
+Investment Banking Job Simulation — Forage
+ICDL
+Teacher Training Course (TTC)
+Languages
+Persian — Native
+English
+German
+Spanish
+Links
+GitHub: https://github.com/Farnaz-Baghban
+LinkedIn: https://www.linkedin.com/in/farnaz-baghban-19b618193
+Portfolio: https://farnaz-baghban.github.io
