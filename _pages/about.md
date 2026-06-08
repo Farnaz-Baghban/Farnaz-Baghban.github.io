@@ -45,6 +45,8 @@ ESP32-based gas sensor platform using Bluetooth, MQTT and FreeRTOS for real-time
 Python-based TCP chat server supporting concurrent client communication.
 
 ## Links
+GitHub: https://github.com/Farnaz-Baghban
+LinkedIn: https://www.linkedin.com/in/farnaz-baghban-19b618193
 
 * GitHub: https://github.com/Farnaz-Baghban
 * LinkedIn: https://www.linkedin.com/in/farnaz-baghban-19b618193
