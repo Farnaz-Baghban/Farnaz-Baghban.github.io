@@ -1,9 +1,16 @@
-# Authors
+author:
+  avatar           : "profile.png"
+  name             : "Farnaz Baghban"
+  bio              : "Systems developer working with C, Python, Linux, and embedded platforms. Interested in reverse engineering, malware analysis, and building low-level tools."
 
-farnaz:
-  name        : "farnaz Baghban"
-  uri         : "www.linkedin.com/in/farnaz-baghban-19b618193"
-  email       : "farnazbaghban3619@gmail.com"
-  bio         : "systems developer working with C, Python, Linux, and embedded platforms. Interested in reverse engineering, malware analysis, and building low‑level tools.
-"
- 
+  email            : "farnazbaghban3619@gmail.com"
+
+  uri              : "https://github.com/Farnaz-Baghban"
+
+  github           : "Farnaz-Baghban"
+
+  linkedin         : "farnaz-baghban-19b618193"
+
+  googlescholar    :
+
+  orcid            :
