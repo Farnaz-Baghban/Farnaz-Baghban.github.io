@@ -2,7 +2,7 @@
 ---
 
 permalink: /
-title: "Farnaz Baghban"
+title: "Farnaz Baghban | Systems Developer"
 author_profile: true
 redirect_from:
 
@@ -54,3 +54,5 @@ Python-based TCP chat server supporting concurrent client communication.
   * Reverse Engineering under Advanced Obfuscation
   * Automotive Reverse Engineering (CAN/UDS)
   * When ECUs Talk
+
+ ---
